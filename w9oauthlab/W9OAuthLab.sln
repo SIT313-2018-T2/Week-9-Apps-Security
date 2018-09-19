@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28016.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9OAuthLab.Android", "W9OAuthLab\W9OAuthLab.Android\W9OAuthLab.Android.csproj", "{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9OAuthLab", "W9OAuthLab\W9OAuthLab\W9OAuthLab.csproj", "{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDB8F2D-150F-463B-9046-4E11C7ADDEE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF70972F-53C8-4B80-9E9A-BC4034D6FF91}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6FA849-D67A-4CB4-A263-D15E908326E0}
+	EndGlobalSection
+EndGlobal
