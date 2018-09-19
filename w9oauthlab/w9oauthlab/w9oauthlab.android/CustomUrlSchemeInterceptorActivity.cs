@@ -10,7 +10,7 @@ namespace W9OAuthLab.Droid
     [IntentFilter(
         new[] { Intent.ActionView },
         Categories = new[] { Intent.CategoryDefault, Intent.CategoryBrowsable },
-        DataSchemes = new[] { "com.googleusercontent.apps.952223362486-gi9gvea32h0ulibmdspr0lnaothqa8sp" },
+        DataSchemes = new[] { "com.googleusercontent.apps.991601995491-lk0istorugma3ohah557k1hq44ucjvnm" },
         DataPath = "/oauth2redirect")]
     public class CustomUrlSchemeInterceptorActivity : Activity
     {

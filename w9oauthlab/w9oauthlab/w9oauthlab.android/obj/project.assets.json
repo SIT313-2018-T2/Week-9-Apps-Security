@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/W9OAuthLab.Android.csproj",
+      "projectUniqueName": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/W9OAuthLab.Android.csproj",
       "projectName": "W9OAuthLab.Android",
-      "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/W9OAuthLab.Android.csproj",
+      "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/W9OAuthLab.Android.csproj",
       "packagesPath": "/Users/darkeung/.nuget/packages/",
-      "outputPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/obj",
+      "outputPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/darkeung/.config/NuGet/NuGet.Config"
@@ -916,8 +916,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj": {
-              "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj"
+            "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj": {
+              "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj"
             }
           }
         }

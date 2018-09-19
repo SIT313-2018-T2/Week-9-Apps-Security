@@ -7,7 +7,7 @@
 
         // The Android Client ID from the Google Cloud Platform
         //Copy from your notepad which you have done on the lab task 1
-        public static string AndroidClientId = "952223362486-gi9gvea32h0ulibmdspr0lnaothqa8sp.apps.googleusercontent.com";
+        public static string AndroidClientId = "991601995491-lk0istorugma3ohah557k1hq44ucjvnm.apps.googleusercontent.com";
 
 
         // You can read "docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth" for each parameters' meaning
@@ -18,7 +18,7 @@
         //The AndroidRedirectUrl is reversed with AndroidClientId
         //But why ?
         //The details is "Processing the Redirect URL" section on the link "docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/authentication/oauth"
-        public static string AndroidRedirectUrl = "com.googleusercontent.apps.952223362486-gi9gvea32h0ulibmdspr0lnaothqa8sp:/oauth2redirect";
+        public static string AndroidRedirectUrl = "com.googleusercontent.apps.991601995491-lk0istorugma3ohah557k1hq44ucjvnm:/oauth2redirect";
 
     }
 }

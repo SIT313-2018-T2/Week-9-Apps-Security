@@ -104,3 +104,7 @@ F:\W9OAuthLab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\android\asse
 F:\W9OAuthLab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\android\assets\W9OAuthLab.Android.pdb
 F:\W9OAuthLab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 F:\W9OAuthLab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\darkeung\Desktop\w9oauthlab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\W9OAuthLab.Android.csprojAssemblyReference.cache
+C:\Users\darkeung\Desktop\w9oauthlab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\darkeung\Desktop\w9oauthlab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\W9OAuthLab.Android.dll
+C:\Users\darkeung\Desktop\w9oauthlab\W9OAuthLab\W9OAuthLab.Android\obj\Debug\MonoAndroid81\W9OAuthLab.Android.pdb

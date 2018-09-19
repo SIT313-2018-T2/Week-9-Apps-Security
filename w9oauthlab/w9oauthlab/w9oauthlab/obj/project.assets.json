@@ -427,11 +427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj",
+      "projectUniqueName": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj",
       "projectName": "W9OAuthLab",
-      "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj",
+      "projectPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab/W9OAuthLab.csproj",
       "packagesPath": "/Users/darkeung/.nuget/packages/",
-      "outputPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/w9oauthlab/W9OAuthLab/W9OAuthLab/obj",
+      "outputPath": "/Users/darkeung/Desktop/sdrftvgybhunjisexdrcftvgybhunjsexdrcftvgybhunj/my/w9oauthlab/W9OAuthLab/W9OAuthLab/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
